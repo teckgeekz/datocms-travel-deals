@@ -54,7 +54,7 @@ export default function Index() {
     <div className="container">
       <section className="section">
         <div className="flex">
-          <h1 className="title">Travel Deals and Tips</h1>
+          <h1 className="title">Travel Deals</h1>
           <h4 className="subtitle">Get deals on flights and and travel deals across the globe</h4>
         </div>
       </section>
