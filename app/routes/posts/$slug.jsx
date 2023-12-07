@@ -112,7 +112,7 @@ export default function PostSlug() {
     <div className="container">
       <section className="section">
         <Link to="/" className="grid__link">
-          <p className="section__title">Remix Blog.</p>
+          <p className="section__title">Travel Deals</p>
         </Link>
       </section>
       <section className="section">
